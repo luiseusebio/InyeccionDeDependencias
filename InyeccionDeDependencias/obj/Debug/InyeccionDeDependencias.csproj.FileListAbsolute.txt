@@ -1,0 +1,10 @@
+c:\users\luisl\source\repos\InyeccionDeDependencias\InyeccionDeDependencias\bin\Debug\InyeccionDeDependencias.exe.config
+c:\users\luisl\source\repos\InyeccionDeDependencias\InyeccionDeDependencias\bin\Debug\InyeccionDeDependencias.exe
+c:\users\luisl\source\repos\InyeccionDeDependencias\InyeccionDeDependencias\bin\Debug\InyeccionDeDependencias.pdb
+c:\users\luisl\source\repos\InyeccionDeDependencias\InyeccionDeDependencias\obj\Debug\InyeccionDeDependencias.csprojResolveAssemblyReference.cache
+c:\users\luisl\source\repos\InyeccionDeDependencias\InyeccionDeDependencias\obj\Debug\InyeccionDeDependencias.Form1.resources
+c:\users\luisl\source\repos\InyeccionDeDependencias\InyeccionDeDependencias\obj\Debug\InyeccionDeDependencias.Properties.Resources.resources
+c:\users\luisl\source\repos\InyeccionDeDependencias\InyeccionDeDependencias\obj\Debug\InyeccionDeDependencias.csproj.GenerateResource.Cache
+c:\users\luisl\source\repos\InyeccionDeDependencias\InyeccionDeDependencias\obj\Debug\InyeccionDeDependencias.csproj.CoreCompileInputs.cache
+c:\users\luisl\source\repos\InyeccionDeDependencias\InyeccionDeDependencias\obj\Debug\InyeccionDeDependencias.exe
+c:\users\luisl\source\repos\InyeccionDeDependencias\InyeccionDeDependencias\obj\Debug\InyeccionDeDependencias.pdb
